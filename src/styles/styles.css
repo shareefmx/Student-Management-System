@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+}
+
+.ant-modal {
+  border-radius: 10px;
+}
+
+.ant-table {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
