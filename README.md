@@ -4,7 +4,7 @@ A React App for Comprehensive Student Management   Create a React application th
 ## 1. Clone the Repository
 
 ```
-$ 
+$ https://github.com/shareefmx/Student-Management-System.git
 ```
 
 ## 2. Install Node.js and npm
