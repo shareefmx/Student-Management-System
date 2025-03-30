@@ -7,6 +7,7 @@ React requires Node.js. If you haven’t installed it yet, download and install 
 
 To check if it’s installed, run:
 
-'''
-hj
-'''
+```
+$ git clone https://github.com/shareefmx/News-Summarization.git
+$ cd news-summarization-tts
+```
